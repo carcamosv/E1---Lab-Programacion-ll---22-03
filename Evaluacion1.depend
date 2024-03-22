@@ -1,0 +1,35 @@
+# depslib dependency file v1.0
+1710986457 source:c:\users\pc\documents\programacionll\evaluacion1\src\pago.cpp
+	"Pago.h"
+	"Pago.h"
+
+1710986457 c:\users\pc\documents\programacionll\evaluacion1\include\pago.h
+	"Fecha.h"
+
+1710986457 c:\users\pc\documents\programacionll\evaluacion1\include\fecha.h
+
+1710986763 source:c:\users\pc\documents\programacionll\evaluacion1\main.cpp
+	<iostream>
+	<stdlib.h>
+	"Cliente.h"
+	"Prestamo.h"
+	"Fecha.h"
+	"Pago.h"
+
+1710986810 c:\users\pc\documents\programacionll\evaluacion1\include\cliente.h
+	<string>
+
+1710986457 c:\users\pc\documents\programacionll\evaluacion1\include\prestamo.h
+	"Cliente.h"
+	"Pago.h"
+
+1710993241 source:c:\users\pc\documents\programacionll\evaluacion1\src\cliente.cpp
+	"Cliente.h"
+
+1710986457 source:c:\users\pc\documents\programacionll\evaluacion1\src\prestamo.cpp
+	"Prestamo.h"
+
+1710986843 source:c:\users\pc\documents\programacionll\evaluacion1\src\fecha.cpp
+	"Fecha.h"
+	<iostream>
+
